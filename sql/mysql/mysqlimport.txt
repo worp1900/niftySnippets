@@ -1,0 +1,1 @@
+LOAD DATA INFILE 'D:/Tmp/dump_with_tables/import/lernwelt_search_categories.txt' INTO TABLE lernwelt_search_categories;
