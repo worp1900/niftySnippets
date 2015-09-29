@@ -1,0 +1,1 @@
+alias taildir='watch "ls -lrt | tail -10"'
