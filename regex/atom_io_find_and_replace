@@ -1,0 +1,6 @@
+
+
+# JSON Files
+## Find and replace keys in a json file that are not wrapped in ""
+find: \n(\s*)(.*):
+replace: \n$1"$2":
