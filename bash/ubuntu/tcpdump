@@ -1,0 +1,2 @@
+# Listen and list all requests to port 80
+sudo tcpdump port 80 and '(tcp-syn|tcp-ack)!=0'
