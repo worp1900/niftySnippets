@@ -1,0 +1,4 @@
+
+
+ssh-keygen -b 4096 -t rsa -C "your@email.com" -f ~/.ssh/id_rsa
+
