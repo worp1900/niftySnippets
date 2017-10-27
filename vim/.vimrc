@@ -2,6 +2,7 @@
 
 
 set splitright
+set splitbelow
 set wildmode=list:longest
 set wildmenu
 set hidden
