@@ -1,5 +1,7 @@
 " line numbers
 set number
+" setup key combination Ctrl+N + Ctrl+N to toggle line numbers
+:nmap <C-N><C-N> :set invnumber<CR>
 
 set splitright
 set splitbelow
